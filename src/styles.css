@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input::placeholder {
+  color: black;
+  padding-left: 10px;
+  font-size: 20px;
+}
+input {
+  font-size: 20px;
+}
